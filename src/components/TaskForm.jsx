@@ -101,7 +101,7 @@ function TaskForm({
                     >
                         <option>School</option>
                         <option>Personal</option>
-                        <option>Programming</option>
+                        <option>Other</option>
                     </select>
                 </div>
 
